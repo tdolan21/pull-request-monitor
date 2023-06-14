@@ -26,7 +26,7 @@ Before running the tool, you need to set the following environment variables:
 You can set these environment variables in your operating system's settings, or you can set them in your shell before running the tool. For example, in a Unix-based system, you can set an environment variable in the shell like this:
 
 ```bash
-```export GITHUB_USERNAME=your_github_username```
+```export GITHUB_USERNAME=your_github_username
 
 ## Usage
 
