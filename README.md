@@ -8,11 +8,6 @@ This tool automates the process of monitoring a GitHub repository for new pull r
 - Access to a GitHub repository
 - Access to a Jenkins server
 
-## Installation
-
-1. Clone this repository to your local machine.
-2. Navigate to the directory containing the repository.
-3. Install the required Python packages by running `pip install -r requirements.txt`.
 
 ## Configuration
 
